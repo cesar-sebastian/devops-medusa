@@ -14,3 +14,7 @@ Is neccesary share the document with your account services.
 npm install
 npm run dev
 ```
+
+Query
+
+`$ curl -i http://localhost:3000/api/devop`
